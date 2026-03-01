@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  // auto-deploy test
-};
+const nextConfig = {};
 
 export default nextConfig;
